@@ -1,0 +1,14 @@
+com/demoguru99/automation/pageobjects/LoginPage.java
+ com.demoguru99.automation.pageobjects.LoginPage
+com/demoguru99/automation/steps/HomeStep.java
+ com.demoguru99.automation.steps.HomeStep
+com/demoguru99/automation/pageobjects/HomePage.java
+ com.demoguru99.automation.pageobjects.HomePage
+com/demoguru99/automation/steps/LoginStep.java
+ com.demoguru99.automation.steps.LoginStep
+com/demoguru99/automation/steps/RegisterStep.java
+ com.demoguru99.automation.steps.RegisterStep
+com/demoguru99/automation/models/Data.java
+ com.demoguru99.automation.models.Data
+com/demoguru99/automation/pageobjects/RegisterPage.java
+ com.demoguru99.automation.pageobjects.RegisterPage
